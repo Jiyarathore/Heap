@@ -1,0 +1,8 @@
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/c563940f-0376-490c-b04b-ec3f50a01c1b)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/3abf241a-419f-47d3-bb4c-d9df4544997f)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/73193960-1a30-4978-8394-379d9e22d2e4)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/11f0b9ff-ffc7-4648-9021-48d7e4bc77fc)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/4fcd24c3-973e-44cd-8cb3-26a231d433e6)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/99929f0f-d9a5-46b7-9896-13ce73a19897)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/f5065f84-abbd-440d-9a58-2395170a2170)
+![image](https://github.com/Jiyarathore/Heap/assets/96529109/dd77deae-d88e-4e54-93cd-5c674222c39c)
